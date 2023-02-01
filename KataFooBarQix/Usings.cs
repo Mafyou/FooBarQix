@@ -1,0 +1,11 @@
+﻿global using KataFooBarQix.Application.Behaviors;
+global using KataFooBarQix.Application.Handlers;
+global using KataFooBarQix.Application.Queries;
+global using KataFooBarQix.Infrastructure;
+global using KataFooBarQix.Infrastructure.Abstractions;
+global using KataFooBarQix.Middlewares;
+global using KataFooBarQix.ServicesExtension;
+global using MediatR;
+global using Microsoft.AspNetCore.Authentication.Certificate;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Reflection;
